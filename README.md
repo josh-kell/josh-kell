@@ -4,10 +4,9 @@
 
 - <b>[Vulnerability Management Lab (Nessus)](https://github.com/joshmadakor1/Algorithms-Practice)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Honeypot in Microsoft Azure with Azure Sentinel</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Linux</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion</b>
+ 
+- <b>[File Permissions in Linux](https://github.com/josh-kell/File_Permissions_in_Linux/blob/main/README.md)</b>
 
 - <b>SQL</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
