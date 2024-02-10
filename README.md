@@ -12,7 +12,9 @@
 
 <h2>📃Certifications</h2>
  
-- [Google Data Analytics Professional Certificate]
+- Google Data Analytics Professional Certificate
+
+- IBM Data Analyst Professional Certificate
 
 <br>
 </br>
