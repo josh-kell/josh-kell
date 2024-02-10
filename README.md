@@ -1,6 +1,6 @@
 # Hi, I'm Josh! 
   
-## 👨‍💻 Data Analytics Projects:
+## 👨‍💻 Data Analysis Projects:
 
 - <b>[Covid-19 Data Exploration](https://github.com/josh-kell/PortfolioProjects/blob/main/COVID-19%20Data%20Exploration)</b>
  
