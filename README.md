@@ -1,18 +1,18 @@
 # Hi, I'm Josh! 
   
-## 👨‍💻 Cybersecurity Projects:
+## 👨‍💻 Data Analytics Projects:
 
-- <b>[Failed RDP to IP Geolocation Information in Azure Sentinel](https://github.com/josh-kell/AzureSentinelLab)</b>
+- <b>[Covid-19 Data Exploration](https://github.com/josh-kell/PortfolioProjects/blob/main/COVID-19%20Data%20Exploration)</b>
  
-- <b>[File Permissions in Linux](https://github.com/josh-kell/File_Permissions_in_Linux/blob/main/README.md)</b>
+- <b>[Python Data Correlation](https://github.com/josh-kell/PortfolioProjects/blob/main/Movie%20Correlation%20Project.ipynb)</b>
 
-- <b>[Update a File Through a Python Algorithm](https://github.com/josh-kell/Update_a_File_Through_a_Python_Algorithm/blob/main/README.md)</b>
+- <b>[Interactive Tableau Dashboard](https://github.com/josh-kell/PortfolioProjects/blob/main/KCHousingDashboard.png)</b>
 <br>
 </br>
 
 <h2>📃Certifications</h2>
  
-- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BTDVRRDMZJ77)
+- [Google Data Analytics Professional Certificate]
 
 <br>
 </br>
